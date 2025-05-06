@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1746372773 source:c:\users\gabbi\documents\gabbicodeblocks\studycore\main.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+
+1746458201 c:\users\gabbi\documents\gabbicodeblocks\studycore\functiondeclarations.h
+	<fstream>
+	<vector>
+
+1746459959 source:c:\users\gabbi\documents\gabbicodeblocks\studycore\functiondefinitions.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+	<vector>
+	<direct.h>
+	<map>
+	<filesystem>
+
+1746463585 source:c:\users\allen rumbines\downloads\studycore-main\studycore\functiondefinitions.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+	<vector>
+	<direct.h>
+	<map>
+	<filesystem>
+	<sstream>
+	<iomanip>
+	<chrono>
+	<algorithm>
+
+1746463966 c:\users\allen rumbines\downloads\studycore-main\studycore\functiondeclarations.h
+	<fstream>
+	<string>
+	<vector>
+	<thread>
+	<atomic>
+
+1746460229 source:c:\users\allen rumbines\downloads\studycore-main\studycore\main.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+
+1746544438 source:c:\users\allen rumbines\downloads\studycore-main-with-updates\studycore\functiondefinitions.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+	<vector>
+	<direct.h>
+	<map>
+	<filesystem>
+	<sstream>
+	<iomanip>
+	<chrono>
+	<algorithm>
+	<thread>
+	<atomic>
+
+1746463966 c:\users\allen rumbines\downloads\studycore-main-with-updates\studycore\functiondeclarations.h
+	<fstream>
+	<string>
+	<vector>
+	<thread>
+	<atomic>
+
+1746460229 source:c:\users\allen rumbines\downloads\studycore-main-with-updates\studycore\main.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+
